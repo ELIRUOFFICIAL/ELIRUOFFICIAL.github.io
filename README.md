@@ -1,2 +1,2 @@
-# ELIRUOFFICIAL.github.io
-ELIRUOFFICIAL.github.io
+# ELIRUOFFICIAL.github.io/home
+ELIRUOFFICIAL.github.io/home
